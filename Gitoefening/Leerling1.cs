@@ -25,5 +25,6 @@ namespace Gitoefening
         }
         //methode dat bovenstaande data terug geeft als string
         //sigosjisgbjoavmbdovberorgberov dfdouvhbefgiesbvlesfbfoseifvhjse
+        //van bas
     }
 }
