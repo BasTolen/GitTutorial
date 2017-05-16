@@ -24,6 +24,6 @@ namespace Gitoefening
             return ("oogkleur = " + oogkleur + " merk laptop = " + merklaptop + " rijstijd = " + reisstijd);
         }
         //methode dat bovenstaande data terug geeft als string
-
+        //sigosjisgbjoavmbdovberorgberov dfdouvhbefgiesbvlesfbfoseifvhjse
     }
 }
