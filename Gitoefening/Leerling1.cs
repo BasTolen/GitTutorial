@@ -21,7 +21,7 @@ namespace Gitoefening
         public override string ToString()
         {
             GetData();
-            return ("oogkleur = " + oogkleur + " merk laptop = " + merklaptop + " rijstijd = " + reisstijd);
+            return ("oogkleur = " + oogkleur + " merk laptop = " + merklaptop + " reistijd = " + reisstijd);
         }
         //methode dat bovenstaande data terug geeft als string
         //sigosjisgbjoavmbdovberorgberov dfdouvhbefgiesbvlesfbfoseifvhjse
