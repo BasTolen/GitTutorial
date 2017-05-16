@@ -17,9 +17,13 @@ namespace Gitoefening
             merklaptop = "flappel";
             reisstijd = 2;
         }
-        
 
+        public override string ToString()
+        {
+            GetData();
+            return ("oogkleur = " + oogkleur + " merk laptop = " + merklaptop + " rijstijd = " + reisstijd);
+        }
         //methode dat bovenstaande data terug geeft als string
-        
+
     }
 }
